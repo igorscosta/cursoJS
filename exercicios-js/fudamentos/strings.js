@@ -13,3 +13,4 @@ console.log('Escola ' + escola + "!") //outra forma de concaternar strings
 console.log(escola.replace(3, 'e')) // substituição de caracteres
 
 console.log('Igu,Maria,Jão'.split(',')) //pegando elementos de uma string e jogando em um array, aceita regex
+

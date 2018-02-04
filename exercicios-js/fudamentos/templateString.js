@@ -3,7 +3,7 @@ const concatenacao = 'Olá ' + nome + '!'
 const template = `Olá ${nome}!`
 console.log(concatenacao, template)
 
-//Conseguel colocar expressões
+//Consegue colocar expressões
 
 console.log(`1 + 1 = ${1 + 1}`)
 

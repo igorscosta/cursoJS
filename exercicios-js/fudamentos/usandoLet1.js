@@ -5,4 +5,4 @@ var numero = 1
 }
 console.log('fora =', numero)
 
-//variaveis possuem um escopo limitado um bloco
+//variaveis let possuem um escopo limitado em bloco

@@ -4,3 +4,5 @@ var numero = 1
     console.log('dentro =', numero)
 }
 console.log('fora =', numero)
+
+//variaveis possuem um escopo limitado um bloco

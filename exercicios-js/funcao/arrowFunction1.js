@@ -20,3 +20,4 @@ let ola = function () {
 ola = () => 'Olá'
 ola = _ => 'Olá' // possui um param
 console.log(ola())
+

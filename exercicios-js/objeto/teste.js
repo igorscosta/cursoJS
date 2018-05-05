@@ -1,1 +1,1 @@
-let test = {}
+let test = {'teste':42}
